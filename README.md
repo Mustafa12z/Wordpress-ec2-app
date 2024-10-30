@@ -15,8 +15,8 @@ Youou have:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Mustafa12z/Wordpress-ec2-app
+   cd wordpress-ec2-app
    ```
 
 2. **Initialize Terraform**
